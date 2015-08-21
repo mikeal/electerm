@@ -1,0 +1,16 @@
+{
+  "name": "electerm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.31.0",
+    "pty.js": "^0.2.13",
+    "term.js": "0.0.6"
+  }
+}
